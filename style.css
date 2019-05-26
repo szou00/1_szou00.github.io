@@ -76,6 +76,9 @@ li a:hover {
     border: none;
 }
 
+.dropbtn:hover {
+	background-color: #2063A6;
+}
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
@@ -88,6 +91,6 @@ li a:hover {
 }
 
 li {
-	padding-left: 115px;
-	padding-right: 115px;
+	padding-left: 110px;
+	padding-right: 110px;
 }
