@@ -15,6 +15,7 @@ h1{
 	 /* background: #EAFEFF; */
 	 background: rgba(206, 196, 216, 0.3);
 	 border-radius: 8px;
+   opacity: 0.2;
 }
 
 p {
@@ -88,6 +89,6 @@ li a:hover {
 }
 
 li {
-	padding-left: 115px;
-	padding-right: 115px;
+	padding-left: 110px;
+	padding-right: 110px;
 }
