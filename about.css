@@ -74,7 +74,7 @@ p {
   /* float: left; */
 }
 
-ul {
+.c {
   /* text-align: center; */
   padding: 40px;
   font-size:130%;
@@ -84,7 +84,7 @@ ul {
   font-family: 'Enriqueta', serif;
 }
 
-li {
+.b {
   margin: 20px;
 }
 
@@ -94,4 +94,38 @@ h2 {
   color: #1DA99C;
   text-align: center;
   text-emphasis-style: open;
+}
+
+ul {
+  margin-top: 7%;
+  list-style-type: none;
+	font-size:120%;
+  margin-bottom: 3%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #898989;
+	border-radius: 2px;
+}
+
+li {
+  float: left;
+	padding-left: 110px;
+	padding-right: 110px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: #111;
+}
+
+li a:hover {
+  background: rgba(206, 196, 216, 0.6);
 }
