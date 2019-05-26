@@ -5,19 +5,35 @@ body {
 
 .one {
   color: #97B9D8;
-  text-align: center;
-  padding: 100px;
+  padding: 50px;
   margin: 50px;
   background: rgba(206, 196, 216, 0.3);
   border-radius: 8px;
 }
 
+h1 {
+  color: #8400C1;
+}
+
+p {
+  color: #58695E;
+}
+
 .two {
-  color: #CEC4D8;
+  color: #5347FF;
   text-align: center;
   padding: 100px;
   margin: 50px;
   background: rgba(151, 185, 216, 0.3);
+  border-radius: 8px;
+}
+
+.three {
+  color: #00B740;
+  text-align: center;
+  padding: 100px;
+  margin: 50px;
+  background: rgba(206, 196, 216, 0.3);
   border-radius: 8px;
 }
 
