@@ -3,8 +3,8 @@ body{
 }
 
 .one {
-  color: #97B9D8;
-  padding: 50px;
+  color: #8E55F1;
+  padding: 40px;
   margin: 50px;
   background: rgba(206, 196, 216, 0.3);
   border-radius: 8px;
@@ -40,8 +40,8 @@ p {
   background-size: cover;
 }
 
-.dropbtn {
-    position: absolute;
+#dropbtn {
+    /* position: absolute; */
     /* margin-top: 50px; */
     /* left: 50%; */
     /* -ms-transform: translate(-50%, -50%);
@@ -55,7 +55,7 @@ p {
     float: right;
 }
 
-.dropbtn:hover {
+#dropbtn:hover {
 	background-color: #2063A6;
 }
 
