@@ -15,7 +15,11 @@ h1{
 	 /* background: #EAFEFF; */
 	 background: rgba(206, 196, 216, 0.3);
 	 border-radius: 8px;
-   opacity: 0.2;
+   /* opacity: 0.7; */
+}
+
+title {
+	background: rgba(209,234,255,0.3);
 }
 
 p {
