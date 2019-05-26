@@ -62,6 +62,12 @@ li a:hover {
 
 /* below is borrowed from w3schools.com*/
 .dropbtn {
+    position: absolute;
+    margin-top: 50px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-overflow: clip;
     background-color: cornflowerblue;
     color: white;
     padding: 16px;
