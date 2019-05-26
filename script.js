@@ -1,4 +1,8 @@
 function clicked() {
   var pChanged = document.getElementById("logo");
-  pChanged.style.backgroundColor = "#174D72";
+  pChanged.style.backgroundColor = "#FFFFF";
+}
+
+function sentState() {
+  
 }
