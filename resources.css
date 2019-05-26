@@ -82,6 +82,16 @@ form {
 	text-align:center;
 }
 
+h1 {
+  font-size: 300%;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
 h2 {
   color: #6D7D72;
+}
+
+p {
+  font-family: 'Enriqueta', serif;
 }

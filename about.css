@@ -54,6 +54,9 @@ p {
     padding: 12px;
     font-size: 16px;
     border: none;
+    font-family: 'Yeseva One', cursive;
+    letter-spacing: 2px;
+
     /* float: right; */
 }
 
@@ -87,6 +90,7 @@ li {
 
 h2 {
   /* color: #8485E4; */
+  font-family: 'Carrois Gothic SC', sans-serif;
   color: #1DA99C;
   text-align: center;
   text-emphasis-style: open;
