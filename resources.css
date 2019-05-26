@@ -1,6 +1,5 @@
-body {
+body{
    background-color: aliceblue;
-   background-size: cover;
 }
 
 .one {
@@ -11,12 +10,53 @@ body {
   border-radius: 8px;
 }
 
-h1 {
+/* h1 {
   color: #8400C1;
+} */
+
+#logo {
+  width:15%;
+  float: left;
 }
 
 p {
   color: #58695E;
+}
+
+.title {
+  color: #d68fd6;
+  text-align: center;
+  font-size: 400%;
+  /* margin: 20%; */
+  padding: 10%;
+  /* border-radius: 8px; */
+  font-family: 'Julius Sans One', sans-serif;
+  /* background: #EAFEFF; */
+  /* background: rgba(206, 196, 216, 0.3); */
+  border-radius: 8px;
+  padding-left:20%;
+  padding-right:20%;
+  background-image:url(resources.jpg);
+  background-size: cover;
+}
+
+.dropbtn {
+    position: absolute;
+    /* margin-top: 50px; */
+    /* left: 50%; */
+    /* -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+    text-overflow: clip;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    float: right;
+}
+
+.dropbtn:hover {
+	background-color: #2063A6;
 }
 
 .two {
