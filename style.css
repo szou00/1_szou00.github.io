@@ -7,9 +7,14 @@ body{
 h1{
    color: #d68fd6;
    text-align: center;
-      font-size: 400%;
+   font-size: 400%;
+	 /* margin: 20%; */
+	 padding: 10%;
    /* border-radius: 8px; */
    font-family: 'Julius Sans One', sans-serif;
+	 /* background: #EAFEFF; */
+	 background: rgba(206, 196, 216, 0.3);
+	 border-radius: 8px;
 }
 
 p {
@@ -73,4 +78,8 @@ img.a {
 #logo {
   width:15%;
   float: left;
+}
+
+.w3-container {
+	color: #EFAEFF !important;
 }
