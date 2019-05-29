@@ -1,0 +1,24 @@
+.nav-link, p {
+	color: #FF69B4 !important;
+}
+
+p {
+	font-size: 20
+}
+
+.nav-link {
+	font-size: 24;
+}
+
+.btn-outline-dark {
+	color: #FF69B4 !important;
+	border-color: #FF69B4 !important;
+}
+
+.dropdown-toggle {
+	border-color: transparent !important;
+}
+
+* {
+	font-family: 'Ranga', cursive;
+}
